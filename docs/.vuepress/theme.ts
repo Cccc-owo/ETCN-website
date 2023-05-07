@@ -3,7 +3,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://etcn.netlify.app/",
+  hostname: "https://etcn.iscccc.eu.org/",
 
   author: {
     name: "Cccc_",
@@ -14,9 +14,9 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "Cccc-owo/Extended-Timeline-Chinese-Localisation-Project",
+  repo: "Cccc-owo/ETCN-website",
 
-  docsDir: "website/docs",
+  docsDir: "docs",
 
   locales: {
     "/en/": {
